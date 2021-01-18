@@ -6,4 +6,4 @@ Site has mobile versions and is fully responsive
 
 ![](mobilepedia.gif)
 
-![](Korepediademo.gif)
+![](mobilegif.gif)
