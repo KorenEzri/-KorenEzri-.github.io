@@ -4,7 +4,7 @@
 Site has mobile versions and is fully responsive
 
 
-![](mobilegif.gif)
+![](mobdemo.gif)
 
 ![](Korepediademo.gif)
 
