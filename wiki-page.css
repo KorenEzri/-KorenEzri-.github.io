@@ -675,43 +675,43 @@ body *::-webkit-scrollbar {
 }
 
 #smelly {
-  background-image: url(smelly-cat-japan.jpg);
+  background-image: url(../pics/smelly-cat-japan.jpg);
   background-size: contain;
   background-size: 100% 140%;
   background-repeat: no-repeat;
 }
 
 #bridge {
-  background-image: url(bridge-japan.jpg);
+  background-image: url(../pics/bridge-japan.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 #cat {
-  background-image: url(cat-pic-japan.jpg);
+  background-image: url(../pics/cat-pic-japan.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 #dragqueen {
-  background-image: url(drunkard-drag-queen-japan.jpg);
+  background-image: url(../pics/drunkard-drag-queen-japan.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 #osaka {
-  background-image: url(osaka-japan.jpg);
+  background-image: url(../pics/osaka-japan.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 #landscape {
-  background-image: url(japan-landscape.jpg);
+  background-image: url(../pics/japan-landscape.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
 
 #shirakawa {
-  background-image: url(shirakawa-go-japan.jpg);
+  background-image: url(../pics/shirakawa-go-japan.jpg);
   background-size: 100% 100%;
   background-repeat: no-repeat;
 }
