@@ -6,5 +6,5 @@ Site has mobile versions and is fully responsive
 
 ![](mobdemo.gif)
 
-![](Korepediademo.gif)
+![](pediademo.gif)
 
