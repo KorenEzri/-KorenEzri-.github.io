@@ -27,9 +27,3 @@ for (i = 0; i < coll.length; i++) {
     }
   });
 }
-
-function openURL() 
-{
-     var shell = new ActiveXObject("WScript.Shell");
-     shell.run("Chrome https://google.com");
-}     
